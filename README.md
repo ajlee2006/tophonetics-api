@@ -13,4 +13,4 @@ american_english_ipa = requests.get("https://tophonetics-api.ajlee.repl.co/api",
 Visit https://tophonetics-api.ajlee.repl.co/api?text=[text] in the browser to get the IPA in plain text. You can also add "&dialect=am" after if you want American English (British English is the default).
 
 ## Legality
-I posted a comment on tophonetics.com sharing this, and they replied: "We do not encourage this as it is open to abuse and, yes, it will hit the wall eventually, but good job". I suppose this makes this tool okay to be used.
+I posted a comment on tophonetics.com sharing this, and they replied: "We do not encourage this as it is open to abuse and, yes, it will hit the wall eventually, but good job". I suppose this shows that it is allowed and legal though they don't encourage it.
