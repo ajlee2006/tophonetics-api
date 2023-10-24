@@ -1,4 +1,5 @@
 # tophonetics.com API
+# Update: This is broken. I will not be maintaining this
 An API for [tophonetics.com](https://www.tophonetics.com/) using Flask. It basically just sends a request to tophonetics.com, then formats the HTML response into plain text IPA. Thus, it is possible that it could fail if they reformat their website. Also, it can take up to 3 seconds for the IPA to load.   
 
 An instance is currently running on https://tophonetics-api.ajlee.repl.co/api. 
